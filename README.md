@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Ahmed Himel</h1>
 <h3 align="center">A passionate frontend developer from BD</h3>
 
@@ -7,14 +8,15 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **React, JavaScript, Linux, Web-pentest**
+- 💬 Ask me about **React, JavaScript, Linux, Web pen-testing**
 
 - 📫 How to reach me **ahmedhimel000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-himel-4b243b245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-himel-4b243b245/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ahmed_himel21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ahmed_himel21/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmed-himel-4b243b245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-himel-4b243b245" height="30" width="40" /></a>
+<a href="https://fb.com/ahmed himel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed himel" height="30" width="40" /></a>
+<a href="https://instagram.com/ahmed_himel21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed_himel21" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedhimel21&show_icons=true&locale=en" alt="ahmedhimel21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhimel21&" alt="ahmedhimel21" /></p>
+
