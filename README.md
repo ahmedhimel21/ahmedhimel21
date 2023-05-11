@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedhimel21&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedhimel21" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MongoDB**
 
 - 💬 Ask me about **React, JavaScript, Linux, Web pen-testing**
 
