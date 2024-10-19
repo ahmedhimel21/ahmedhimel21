@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Sahabuddin Ahmed] 👋</h1>
+<h1 align="center">Hi there, I'm Sahabuddin Ahmed 👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmedhimel21&color=brightgreen" alt="Profile Views" />
@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-👨‍💻 I am a MERN stack Developer passionate about creating beautiful and functional websites. I have extensive experience working with a wide range of technology including HTML5, CSS3, JavaScript, React, React-router, NodeJs, ExpressJs, firebase Authentication and MongoDB. As a MERN stack Developer my primary focus is on creating amazing user interfaces that deliver a seamless user experience. I am currently studying in the chemistry department at Narail Govt. Victoria College. I don't get bored while working in this profession. The new technology and the passion to do something creative and unique interested me in this profession. I constantly try to create interactive projects by acquiring new technologies and skills. I have completed a cyber security course from arena web security to acquire skills on securing websites and creating websites. 🚀
+👨‍💻 I am a MERN stack Developer passionate about creating beautiful and functional websites. I have extensive experience working with a wide range of technology including HTML5, CSS3, JavaScript, React, React-router, NodeJs, ExpressJs, firebase Authentication and MongoDB. As a MERN stack Developer, my primary focus is on creating amazing user interfaces that deliver a seamless user experience. I am currently studying in the chemistry department at Narail Govt. Victoria College. I don't get bored while working in this profession. The new technology and the passion to do something creative and unique interested me in this profession. I constantly try to create interactive projects by acquiring new technologies and skills. I have completed a cyber security course from Arena Web Security to acquire skills on securing websites and creating websites. 🚀
 
 - 🔭 I’m currently working on **[Your Current Project]**
 - 🌱 I’m currently learning **[New Technology or Skill]**
@@ -29,9 +29,14 @@
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Mongoose-%23403B2D.svg?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-%000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/NextAuth.js-%236DB33F.svg?style=for-the-badge&logo=nextauth&logoColor=white" alt="NextAuth.js" />
+  <img src="https://img.shields.io/badge/Firebase-%23039BE0.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
 </p>
 
 ---
@@ -69,12 +74,6 @@
     <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
----
-
-## 💼 What I Do
-
-I'm specialized in full-stack web development, focusing on building dynamic and responsive applications using modern technologies like React, Node.js, MongoDB, and TypeScript. I also contribute to open-source projects.
 
 ---
 
