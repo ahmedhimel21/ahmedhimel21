@@ -78,14 +78,6 @@ I'm specialized in full-stack web development, focusing on building dynamic and 
 
 ---
 
-## 🎨 Fun with Markdown
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes" />
-</p>
-
----
-
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ahmedhimel21&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
