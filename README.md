@@ -79,5 +79,5 @@ I'm specialized in full-stack web development, focusing on building dynamic and 
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ahmedhimel21&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+ [![Sahabuddin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedhimel21&theme=react-dark&hide_border=true&area=true)](https://github.com/ahmedhimel21/github-readme-activity-graph)
 </p>
