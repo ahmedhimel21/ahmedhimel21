@@ -39,8 +39,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedhimel21&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhimel21&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedhimel21&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -94,5 +94,5 @@ I'm specialized in full-stack web development, focusing on building dynamic and 
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ahmedhimel21&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
