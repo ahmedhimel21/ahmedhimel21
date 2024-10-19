@@ -78,13 +78,6 @@ I'm specialized in full-stack web development, focusing on building dynamic and 
 
 ---
 
-## 💻 Some of My Projects
-
-- [**Project 1**](https://github.com/your-username/project1) - A short description of your project.
-- [**Project 2**](https://github.com/your-username/project2) - Another project description.
-
----
-
 ## 🎨 Fun with Markdown
 
 <p align="center">
