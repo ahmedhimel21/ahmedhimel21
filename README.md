@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/your-username/banner.png" alt="Banner Image" width="100%" />
+  <img src="https://i.ibb.co.com/qyNRLZG/Git-Hub-Profile-Banner-10-20-2024-07-45-PM.png" alt="Banner Image" width="100%" />
 </p>
 
 ## 🧑‍💻 About Me
