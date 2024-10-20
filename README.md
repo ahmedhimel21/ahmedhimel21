@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-👨‍💻 I am a MERN stack Developer passionate about creating beautiful and functional websites. I have extensive experience working with a wide range of technology including HTML5, CSS3, JavaScript, React, React-router, NodeJs, ExpressJs, firebase Authentication and MongoDB. As a MERN stack Developer, my primary focus is on creating amazing user interfaces that deliver a seamless user experience. I am currently studying in the chemistry department at Narail Govt. Victoria College. I don't get bored while working in this profession. The new technology and the passion to do something creative and unique interested me in this profession. I constantly try to create interactive projects by acquiring new technologies and skills. I have completed a cyber security course from Arena Web Security to acquire skills on securing websites and creating websites. 🚀
+👨‍💻 I'm a passionate **MERN Stack Web Developer** with expertise in **React, Tailwind, Node.js, MongoDB, TypeScript, Redux, and Nextjs**. I enjoy creating efficient and scalable applications that solve real-world problems. My mission is to contribute to innovative solutions that drive technology forward. 🚀
 
 - 🔭 I’m currently working on **on a marketplace**
 - 🌱 I’m currently learning **Docker**
@@ -38,6 +38,9 @@
   </a>
 </p>
 
+## 💼 What I Do
+
+I am a MERN stack Developer with a passion for creating beautiful and functional websites. I have extensive experience working with a wide range of technology including HTML5, CSS3, JavaScript, React, React-router, NodeJs, ExpressJs, firebase Authentication, MongoDB, Typescript and NextJS. As a MERN stack Developer, my primary focus is on creating amazing user interfaces that deliver a seamless user experience. I am currently studying in the chemistry department at Narail Govt. Victoria College. I don't get bored while working in this profession. The new technology and the passion to do something creative and unique interested me in this profession. I constantly try to create interactive projects by acquiring new technologies and skills.
 
 ## 🛠️ Tech Stack
 
