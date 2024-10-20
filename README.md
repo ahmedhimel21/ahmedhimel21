@@ -21,6 +21,7 @@
 - 📫 How to reach me: **[sahabuddinahmed2125@gmail.com](mailto:sahabuddinahmed2125@gmail.com)**
 - ⚡ Fun fact: **After watching Mr. Robot, I got so fascinated by the tech world that I decided to start learning web development! Now, I’m diving into coding like Elliot Alderson (minus the hacking 😅), and loving every moment of it!**
 
+
 ## 🌐 Connect with Me
 
 <p align="center">
@@ -38,9 +39,11 @@
   </a>
 </p>
 
+
 ## 💼 What I Do
 
 I am a MERN stack Developer with a passion for creating beautiful and functional websites. I have extensive experience working with a wide range of technology including HTML5, CSS3, JavaScript, React, React-router, NodeJs, ExpressJs, firebase Authentication, MongoDB, Typescript and NextJS. As a MERN stack Developer, my primary focus is on creating amazing user interfaces that deliver a seamless user experience. I am currently studying in the chemistry department at Narail Govt. Victoria College. I don't get bored while working in this profession. The new technology and the passion to do something creative and unique interested me in this profession. I constantly try to create interactive projects by acquiring new technologies and skills.
+
 
 ## 🛠️ Tech Stack
 
@@ -55,6 +58,13 @@ I am a MERN stack Developer with a passion for creating beautiful and functional
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedhimel21&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhimel21&theme=radical" alt="GitHub Streak" />
+</p>
+
+
+## 🔥 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhimel21&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
 
