@@ -14,14 +14,12 @@
 
 👨‍💻 I am a MERN stack Developer passionate about creating beautiful and functional websites. I have extensive experience working with a wide range of technology including HTML5, CSS3, JavaScript, React, React-router, NodeJs, ExpressJs, firebase Authentication and MongoDB. As a MERN stack Developer, my primary focus is on creating amazing user interfaces that deliver a seamless user experience. I am currently studying in the chemistry department at Narail Govt. Victoria College. I don't get bored while working in this profession. The new technology and the passion to do something creative and unique interested me in this profession. I constantly try to create interactive projects by acquiring new technologies and skills. I have completed a cyber security course from Arena Web Security to acquire skills on securing websites and creating websites. 🚀
 
-- 🔭 I’m currently working on **[Your Current Project]**
-- 🌱 I’m currently learning **[New Technology or Skill]**
+- 🔭 I’m currently working on **[on a marketplace]**
+- 🌱 I’m currently learning **[Docker]**
 - 👯 I’m looking to collaborate on **[Open Source Projects or Technologies]**
-- 💬 Ask me about **[Specific Topics You’re Skilled In]**
-- 📫 How to reach me: **[your-email@example.com](mailto:your-email@example.com)**
-- ⚡ Fun fact: **[Something Interesting About Yourself]**
-
----
+- 💬 Ask me about **[web development]**
+- 📫 How to reach me: **[sahabuddinahmed2125@gmail.com](mailto:sahabuddinahmed2125@gmail.com)**
+- ⚡ Fun fact: **[After watching Mr. Robot, I got so fascinated by the tech world that I decided to start learning web development! Now, I’m diving into coding like Elliot Alderson (minus the hacking 😅), and loving every moment of it!]**
 
 ## 🌐 Connect with Me
 
