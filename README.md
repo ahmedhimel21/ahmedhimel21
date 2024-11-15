@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **Docker**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development**
-- 📫 How to reach me: **[sahabuddinahmed2125@gmail.com](mailto:sahabuddin.ahmed2125@gmail.com)**
+- 📫 How to reach me: **[sahabuddin.ahmed2125@gmail.com](mailto:sahabuddin.ahmed2125@gmail.com)**
 - ⚡ Fun fact: **After watching Mr. Robot, I got so fascinated by the tech world that I decided to start learning web development! Now, I’m diving into coding like Elliot Alderson (minus the hacking 😅), and loving every moment of it!**
 
 
@@ -34,7 +34,7 @@
   <a href="mailto:sahabuddinahmed2125@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://sahabuddin-ahmed-protfolio.vercel.app" target="_blank">
+  <a href="https://sahabuddin-ahmed-protfolio-ten.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
