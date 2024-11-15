@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **Docker**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development**
-- 📫 How to reach me: **[sahabuddinahmed2125@gmail.com](mailto:sahabuddinahmed2125@gmail.com)**
+- 📫 How to reach me: **[sahabuddinahmed2125@gmail.com](mailto:sahabuddin.ahmed2125@gmail.com)**
 - ⚡ Fun fact: **After watching Mr. Robot, I got so fascinated by the tech world that I decided to start learning web development! Now, I’m diving into coding like Elliot Alderson (minus the hacking 😅), and loving every moment of it!**
 
 
