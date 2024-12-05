@@ -25,13 +25,13 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sahabuddin-ahmed-4b243b245" target="_blank">
+  <a href="https://www.linkedin.com/in/sahabuddin-ahmed21/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/ahmed_himel21" target="_blank">
     <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:sahabuddinahmed2125@gmail.com">
+  <a href="mailto:sahabuddin.ahmed2125@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://sahabuddin-ahmed-protfolio-ten.vercel.app" target="_blank">
