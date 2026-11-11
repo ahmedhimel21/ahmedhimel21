@@ -65,17 +65,17 @@ I am a MERN stack Developer with a passion for creating beautiful and functional
 ## 🔥 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhimel21&layout=compact&theme=radical" alt="Most Used Languages" />
+   <img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=ahmedhimel21&layout=compact&theme=radical"
+  alt="Top Languages"
+/>
 </p>
 
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=ahmedhimel21&layout=compact&theme=radical"
-  alt="Top Languages"
-/>
+ 
 </p>
 
 
