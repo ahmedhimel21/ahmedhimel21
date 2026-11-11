@@ -53,7 +53,7 @@ I am a MERN stack Developer with a passion for creating beautiful and functional
 
 
 ## 📈 GitHub Stats
-
+<p>
 <img
   src="https://github-stats-extended.vercel.app/api?username=ahmedhimel21&show_icons=true&theme=radical"
   alt="GitHub Stats"
