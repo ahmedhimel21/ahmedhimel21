@@ -54,8 +54,10 @@ I am a MERN stack Developer with a passion for creating beautiful and functional
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedhimel21&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img
+  src="https://github-stats-extended.vercel.app/api?username=ahmedhimel21&show_icons=true&theme=radical"
+  alt="GitHub Stats"
+/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhimel21&theme=radical" alt="GitHub Streak" />
 </p>
 
@@ -70,7 +72,10 @@ I am a MERN stack Developer with a passion for creating beautiful and functional
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedhimel21&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=ahmedhimel21&layout=compact&theme=radical"
+  alt="Top Languages"
+/>
 </p>
 
 
