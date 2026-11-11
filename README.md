@@ -58,14 +58,12 @@ I am a MERN stack Developer with a passion for creating beautiful and functional
   <img
     src="https://github-stats-extended.vercel.app/api?username=ahmedhimel21&show_icons=true&theme=radical"
     alt="GitHub Stats"
-    width="100%"
   />
 </p>
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhimel21&theme=radical"
     alt="GitHub Streak"
-    width="100%"
   />
 </p>
 
