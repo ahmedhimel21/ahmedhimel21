@@ -70,15 +70,3 @@ I am a MERN stack Developer with a passion for creating beautiful and functional
   alt="Top Languages"
 />
 </p>
-
-
-## 🏆 GitHub Trophies
-
-<p align="center">
- 
-</p>
-
-
-<p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedhimel21&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
