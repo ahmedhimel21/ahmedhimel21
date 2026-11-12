@@ -75,14 +75,19 @@ I'm a passionate **Software Developer** who enjoys exploring technology, solving
   <strong>Also exploring:</strong> Drizzle ORM, pgvector, Vector Databases
 </p>
 
+
 ### 🤖 AI Engineering
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,langgraph" />
 </p>
 
 <p align="center">
-  <strong>Technologies:</strong> Generative AI · LLMs · LangChain · LangGraph · RAG · Embeddings · Vector Stores · AI Agents · Multi-Agent Systems · MCP · OpenRouter API
+  <strong>Technologies:</strong><br/>
+  LLMs · LangChain · LangGraph · RAG · Embeddings · Vector Stores<br/>
+  OpenRouter API · AI Agents · Multi-Agent Systems · MCP
 </p>
+
 
 ### ☁️ DevOps, Cloud & Infrastructure
 <p align="center">
