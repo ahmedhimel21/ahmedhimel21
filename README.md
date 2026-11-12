@@ -79,9 +79,9 @@ I'm a passionate **Software Developer** who enjoys exploring technology, solving
 ### 🤖 AI Engineering
 
 <p align="center">
-  <img src="./langchain.svg" height="35" alt="LangChain" />
-  <img src="./langgraph.svg" height="35" alt="LangGraph" />
-  <img src="./openrouter.svg" height="35" alt="OpenRouter" />
+  <img src="./langchain.svg" height="44" alt="LangChain" />
+  <img src="./langgraph.svg" height="44" alt="LangGraph" />
+  <img src="./openrouter.svg" height="44" alt="OpenRouter" />
 </p>
 
 <p align="center">
