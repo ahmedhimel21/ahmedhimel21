@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-👨‍💻 I'm a passionate **Software Developer** interested in building efficient, scalable, and user-focused software solutions. My experience includes **JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB, and PostgreSQL**, along with **C, C++, Python, and Data Structures & Algorithms**. I'm also exploring **FastAPI, Generative AI, and AI-powered application development**. I enjoy learning new technologies, solving complex problems, and continuously improving my software engineering skills to build meaningful products.
+I'm a passionate **Software Developer** who enjoys exploring technology, solving problems, and turning ideas into reality. I'm driven by curiosity and a continuous learning mindset, with a particular interest in **Backend Engineering, System Design, and Generative AI**. I believe in writing clean, maintainable code and continuously growing as a software engineer. Beyond coding, I enjoy exploring new technologies and understanding how things work behind the scenes.
 
 - 🌱 I’m currently learning **Generative AI**
 - 👯 I’m looking to collaborate on **Open Source Projects**
@@ -41,7 +41,12 @@
 
 ## 💼 What I Do
 
-I am a MERN stack Developer with a passion for creating beautiful and functional websites. I have extensive experience working with a wide range of technology including HTML5, CSS3, JavaScript, React, React-router, NodeJs, ExpressJs, firebase Authentication, MongoDB, Typescript and NextJS. As a MERN stack Developer, my primary focus is on creating amazing user interfaces that deliver a seamless user experience.
+- **Frontend Development:** Build responsive, accessible, and interactive user interfaces using React, Next.js, and Tailwind CSS.
+- **Backend Development:** Develop RESTful APIs, authentication systems, and scalable backend services using Node.js, Express.js, and TypeScript.
+- **Database Engineering:** Design and manage relational and NoSQL databases using PostgreSQL, MongoDB, and Redis.
+- **Problem Solving:** Apply Data Structures & Algorithms and programming fundamentals using C, C++, and Python.
+- **AI Engineering:** Explore Generative AI, LLMs, RAG, and AI-powered application development.
+- **DevOps & Deployment:** Work with Docker, Linux, AWS, and CI/CD workflows.
 
 ## 🛠️ Tech Stack
 
