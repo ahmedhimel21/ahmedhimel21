@@ -12,12 +12,11 @@
 
 ## 🧑‍💻 About Me
 
-👨‍💻 I'm a passionate **MERN Stack Web Developer** with expertise in **React, Tailwind, Node.js, MongoDB, TypeScript, Redux, and Nextjs**. I enjoy creating efficient and scalable applications that solve real-world problems. My mission is to contribute to innovative solutions that drive technology forward. 🚀
+👨‍💻 I'm a passionate **Software Developer** interested in building efficient, scalable, and user-focused software solutions. My experience includes **JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB, and PostgreSQL**, along with **C, C++, Python, and Data Structures & Algorithms**. I'm also exploring **FastAPI, Generative AI, and AI-powered application development**. I enjoy learning new technologies, solving complex problems, and continuously improving my software engineering skills to build meaningful products.
 
-- 🔭 I’m currently working on **on a marketplace**
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Generative AI**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Software Development**
 - 📫 How to reach me: **[sahabuddin.ahmed2125@gmail.com](mailto:sahabuddin.ahmed2125@gmail.com)**
 - ⚡ Fun fact: **After watching Mr. Robot, I got so fascinated by the tech world that I decided to start learning web development! Now, I’m diving into coding like Elliot Alderson (minus the hacking 😅), and loving every moment of it!**
 
