@@ -48,13 +48,6 @@ I'm a passionate **Software Developer** who enjoys exploring technology, solving
 - **AI Engineering:** Explore Generative AI, LLMs, RAG, and AI-powered application development.
 - **DevOps & Deployment:** Work with Docker, Linux, AWS, and CI/CD workflows.
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,html,css,vscode,github,tailwind,git" />
-  <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs" /><br>
-</p>
---
 
 ## 🛠️ Tech Stack & Tools
 
@@ -62,14 +55,10 @@ I'm a passionate **Software Developer** who enjoys exploring technology, solving
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,py,html,css" />
 </p>
-<p align="center">
-  <b>Core Concepts:</b> Data Structures & Algorithms (DSA) · SQL
-</p>
 
 ### 🎨 Frontend Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=zustand,shadcn" />
 </p>
 
 ### ⚙️ Backend Development
@@ -79,47 +68,40 @@ I'm a passionate **Software Developer** who enjoys exploring technology, solving
 
 ### 🗄️ Database & ORM
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=drizzle,qdrant,pinecone,milvus" />
-</p>
-<p align="center">
-  <b>Database Technologies:</b> PostgreSQL · MongoDB · Redis · Drizzle ORM · pgvector · Vector Databases
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma" />
 </p>
 
-### 🤖 AI Engineering & Generative AI
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,openai,ollama,huggingface" />
+  <strong>Also exploring:</strong> Drizzle ORM, pgvector, Vector Databases
 </p>
+
+### 🤖 AI Engineering
 <p align="center">
-  <b>AI Technologies:</b><br/>
-  Generative AI · LLMs · LangChain · LangGraph · RAG · Embeddings · Vector Stores<br/>
-  AI Agents · Multi-Agent Systems · MCP · OpenRouter API
+  <img src="https://skillicons.dev/icons?i=python,pytorch" />
+</p>
+
+<p align="center">
+  <strong>Technologies:</strong> Generative AI · LLMs · LangChain · LangGraph · RAG · Embeddings · Vector Stores · AI Agents · Multi-Agent Systems · MCP · OpenRouter API
 </p>
 
 ### ☁️ DevOps, Cloud & Infrastructure
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,githubactions,vercel" />
 </p>
+
 <p align="center">
-  <b>Cloud & Deployment:</b> AWS IAM · Amazon S3 · Amazon EC2 · Docker Compose · NGINX · VPS · CI/CD · Let's Encrypt
+  <strong>Also working with:</strong> Docker Compose · AWS IAM · Amazon S3 · Amazon EC2 · VPS · Let's Encrypt
 </p>
 
 ### 🧪 Testing & Developer Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vitest,postman,git,github,vscode" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=swagger,cloudinary" />
-</p>
-<p align="center">
-  <b>Testing & API Tools:</b> Vitest · Supertest · Postman · Bruno · Swagger
+  <img src="https://skillicons.dev/icons?i=vitest,postman,git,github,vscode,firebase" />
 </p>
 
-### 🧠 AI Coding & Agentic Development
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=claude" />
+  <strong>Also using:</strong> Supertest · Bruno · Swagger · Cloudinary · Claude Code · OpenCode
 </p>
-<p align="center">
-  Claude Code · OpenCode · MCP · Specification-Driven Development (SDD) · Context Engineering · AI Memory
-</p>
+
 
 
 
