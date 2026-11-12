@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co.com/k2TM41hX/Sahabuddin-Ahmed-Developer-Tech-Banner.png" alt="Banner Image" width="100%" height="100%"/>
+  <img src="./banner.png" alt="Banner Image" width="100%" height="100%"/>
 </p>
 
 ## 🧑‍💻 About Me
