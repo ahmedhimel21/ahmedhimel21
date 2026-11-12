@@ -54,6 +54,60 @@ I'm a passionate **Software Developer** who enjoys exploring technology, solving
   <img src="https://skillicons.dev/icons?i=react,redux,html,css,vscode,github,tailwind,git" />
   <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs" /><br>
 </p>
+--
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,py,html,css" />
+</p>
+
+### 🎨 Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite" />
+</p>
+
+### ⚙️ Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi" />
+</p>
+
+### 🗄️ Database & ORM
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma" />
+</p>
+
+<p align="center">
+  <strong>Also exploring:</strong> Drizzle ORM, pgvector, Vector Databases
+</p>
+
+### 🤖 AI Engineering
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch" />
+</p>
+
+<p align="center">
+  <strong>Technologies:</strong> Generative AI · LLMs · LangChain · LangGraph · RAG · Embeddings · Vector Stores · AI Agents · Multi-Agent Systems · MCP · OpenRouter API
+</p>
+
+### ☁️ DevOps, Cloud & Infrastructure
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,githubactions,vercel" />
+</p>
+
+<p align="center">
+  <strong>Also working with:</strong> Docker Compose · AWS IAM · Amazon S3 · Amazon EC2 · VPS · Let's Encrypt
+</p>
+
+### 🧪 Testing & Developer Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vitest,postman,git,github,vscode,firebase" />
+</p>
+
+<p align="center">
+  <strong>Also using:</strong> Supertest · Bruno · Swagger · Cloudinary · Claude Code · OpenCode
+</p>
 
 
 ## 📈 GitHub Stats
