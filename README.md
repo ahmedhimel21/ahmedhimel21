@@ -79,13 +79,14 @@ I'm a passionate **Software Developer** who enjoys exploring technology, solving
 ### 🤖 AI Engineering
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,langgraph" />
+  <img src="./langchain.svg" height="35" alt="LangChain" />
+  <img src="./langgraph.svg" height="35" alt="LangGraph" />
+  <img src="./openrouter.svg" height="35" alt="OpenRouter" />
 </p>
 
 <p align="center">
-  <strong>Technologies:</strong><br/>
-  LLMs · LangChain · LangGraph · RAG · Embeddings · Vector Stores<br/>
-  OpenRouter API · AI Agents · Multi-Agent Systems · MCP
+  LLMs · RAG · Embeddings · Vector Stores<br/>
+  AI Agents · Multi-Agent Systems · MCP · OpenRouter API
 </p>
 
 
