@@ -62,10 +62,14 @@ I'm a passionate **Software Developer** who enjoys exploring technology, solving
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,py,html,css" />
 </p>
+<p align="center">
+  <b>Core Concepts:</b> Data Structures & Algorithms (DSA) · SQL
+</p>
 
 ### 🎨 Frontend Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=zustand,shadcn" />
 </p>
 
 ### ⚙️ Backend Development
@@ -75,39 +79,48 @@ I'm a passionate **Software Developer** who enjoys exploring technology, solving
 
 ### 🗄️ Database & ORM
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=drizzle,qdrant,pinecone,milvus" />
+</p>
+<p align="center">
+  <b>Database Technologies:</b> PostgreSQL · MongoDB · Redis · Drizzle ORM · pgvector · Vector Databases
 </p>
 
+### 🤖 AI Engineering & Generative AI
 <p align="center">
-  <strong>Also exploring:</strong> Drizzle ORM, pgvector, Vector Databases
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,openai,ollama,huggingface" />
 </p>
-
-### 🤖 AI Engineering
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch" />
-</p>
-
-<p align="center">
-  <strong>Technologies:</strong> Generative AI · LLMs · LangChain · LangGraph · RAG · Embeddings · Vector Stores · AI Agents · Multi-Agent Systems · MCP · OpenRouter API
+  <b>AI Technologies:</b><br/>
+  Generative AI · LLMs · LangChain · LangGraph · RAG · Embeddings · Vector Stores<br/>
+  AI Agents · Multi-Agent Systems · MCP · OpenRouter API
 </p>
 
 ### ☁️ DevOps, Cloud & Infrastructure
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,githubactions,vercel" />
 </p>
-
 <p align="center">
-  <strong>Also working with:</strong> Docker Compose · AWS IAM · Amazon S3 · Amazon EC2 · VPS · Let's Encrypt
+  <b>Cloud & Deployment:</b> AWS IAM · Amazon S3 · Amazon EC2 · Docker Compose · NGINX · VPS · CI/CD · Let's Encrypt
 </p>
 
 ### 🧪 Testing & Developer Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vitest,postman,git,github,vscode,firebase" />
+  <img src="https://skillicons.dev/icons?i=vitest,postman,git,github,vscode" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=swagger,cloudinary" />
+</p>
+<p align="center">
+  <b>Testing & API Tools:</b> Vitest · Supertest · Postman · Bruno · Swagger
 </p>
 
+### 🧠 AI Coding & Agentic Development
 <p align="center">
-  <strong>Also using:</strong> Supertest · Bruno · Swagger · Cloudinary · Claude Code · OpenCode
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=claude" />
 </p>
+<p align="center">
+  Claude Code · OpenCode · MCP · Specification-Driven Development (SDD) · Context Engineering · AI Memory
+</p>
+
 
 
 ## 📈 GitHub Stats
